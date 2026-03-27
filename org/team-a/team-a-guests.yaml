@@ -1,0 +1,11 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: team-a-guests
+  description: test
+spec:
+  type: team
+  parent: team-a
+  children: []
+  members: []
