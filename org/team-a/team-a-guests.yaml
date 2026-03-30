@@ -8,4 +8,4 @@ spec:
   type: team
   parent: team-a
   children: []
-  members: [ guest ]
+  members: [ guest, user-b ]
